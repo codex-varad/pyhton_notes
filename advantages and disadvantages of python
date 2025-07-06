@@ -1,0 +1,24 @@
+advantages and disadvantages of python 
+Python has become a widely used language nowadays.
+Some of the advantages of Python are as follows:
+1.	Ease of Use - Python has a simple, concise, and straightforward syntax. A Python program looks a lot like plain English and is highly readable. 
+This makes Python programs easy to read and debug.
+2.	Versatility - Python is a flexible, general-purpose language that fully supports both procedural and object-oriented programming. 
+Due to its built-in and third-party packages, it is suitable for a wide range of tasks.
+3.	No Compile Process - Python is an interpreted language and programs are automatically compiled at runtime .A program can be run as soon as it is written.
+There is no separate compiler, no time-consuming compilation step, and no opaque compiler errors.
+4.	Automatic Memory Allocation - Python does not have pointers and developers do not have to assign free space in memory. 
+Python allocates memory automatically and a garbage collector recycles memory from discarded objects.
+5.	Open Source and Free to Use - All Python releases are available for free under an open-source license.
+Despite its many advantages, Python also has a few disadvantages. These are:
+1.	Slow Speed - Python is much slower than more efficient languages like C and Java. As it executes the code one line at a time ,the speed of execution oftenishampered.
+Where speed is important for the project, Python cannot be used for coding.
+2.	Poor Memory Efficiency - To make it simple for the developer, Python needs a lot of memory space;
+this can be problematic if you want to develop apps where you need to optimize memory.
+3.	Not Optimized for   Database Access-Python has limitations with database access.
+As compared to the popular technologies like JDBC and ODBC, Python's database access layer is found to be a bit under developed and primitive .
+However ,it cannot be applied in the enterprises that need smooth interaction of complex legacy data.
+4.	Weak in Mobile Computing - Python is used for backend programming; due to its high memory usage and slow speed, 
+it is generally not used for frontend programming or mobile app development.
+5.	Version Incompatibility-Many of the frame works and tools only work for specific versions and cannot be used with others.
+Forexample,Python2,consideredthelegacyversion,hasseveral frameworks created especially for it; these are not compatible with Python 3, considered current and futuristic
